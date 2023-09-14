@@ -1,0 +1,17 @@
+{
+  "name": "SMTP Tester",
+  "short_name": "SMTP Tester",
+  "theme_color": "#6cb958",
+  "background_color": "#6cb958",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "description": "Tester SMTP mail of World is Awesome .fun online! Check if your SMTP can send mails!",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/images/logo_icon.png",
+      "sizes": "512x512"
+    }
+  ]
+}
