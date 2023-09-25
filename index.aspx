@@ -90,10 +90,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="theme-color" content="#6cb958">
 
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="mask-icon" href="http://smtptester.worldisawesome.fun/images/logo_icon.svg" color="#6cb958">
-    <link rel="icon" type="image/svg+xml" href="http://smtptester.worldisawesome.fun/images/logo_icon.svg">
-    <link rel="alternate icon" type="image/png" href="http://smtptester.worldisawesome.fun/images/logo_icon.png">
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="mask-icon" href="images/logo_icon.svg" color="#6cb958">
+    <link rel="icon" type="image/svg+xml" href="images/logo_icon.svg">
+    <link rel="alternate icon" type="image/png" href="images/logo_icon.png">
     
     <title>SMTPTester | World is Awesome .fun</title>
     <meta name="description"
@@ -103,11 +103,11 @@
     <meta name="author" content="World is Awesome .fun">
     <meta name="language" content="ES">
 
-    <link rel="manifest" href="/site.webmanifest">
-    <link href="/lib/font_nunito/Nunito.css" rel="stylesheet">
+    <link rel="manifest" href="site.webmanifest">
+    <link href="lib/font_nunito/Nunito.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="/css/style_material.css">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="css/style_material.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
